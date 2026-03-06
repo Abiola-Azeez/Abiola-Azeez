@@ -85,5 +85,5 @@ https://github.com/Abiola-Azeez/mlb-performance-visualization
 
 # Connect With Me
 
-LinkedIn: *(add your LinkedIn link here)*  
+LinkedIn: https://www.linkedin.com/in/abiola-d-azeez 
 GitHub: https://github.com/Abiola-Azeez
